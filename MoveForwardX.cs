@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MoveForward
+public class MoveForwardx
 
 public float speed = 20;
 
